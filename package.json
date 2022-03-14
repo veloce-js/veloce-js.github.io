@@ -1,0 +1,24 @@
+{
+  "name": "veloce-js.github.io",
+  "version": "1.0.0",
+  "description": "Veloce github document / blog pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veloce-js/veloce-js.github.io.git"
+  },
+  "author": "NEWBRAN LTD",
+  "license": "unlicense",
+  "bugs": {
+    "url": "https://github.com/veloce-js/veloce-js.github.io/issues"
+  },
+  "homepage": "https://github.com/veloce-js/veloce-js.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
